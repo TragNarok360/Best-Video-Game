@@ -706,11 +706,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: cd9d057e-ca54-40f3-b5fe-7f104075448d
+  cloudProjectId: 05e444e7-00ea-4f2e-baf2-2becf33f5556
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Video Game 2024-12-17_17-40-48
-  organizationId: goose-video-game-tsa
+  projectName: Video Game
+  organizationId: yt_goose-val
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
